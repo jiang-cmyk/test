@@ -2,6 +2,7 @@ package bean;
 public class Student{
    private long iD;
    private String name;
+public  Student{}
 
    public void setID(long iD){
       this.iD = iD; }
